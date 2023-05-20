@@ -42,6 +42,620 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1,Neo TV Argentina
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 group-title="Animal Planet",CUL01: ANIMAL PLANET FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/590962
+#EXTINF:-1 group-title="Animal Planet",CUL02: ANIMAL PLANET HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/590963
+#EXTINF:-1 group-title="Animal Planet",CUL03: ANIMAL PLANET
+http://k4livetv.com:8080/Fabio1234/Fabio123456/590964
+#EXTINF:-1 group-title="Animal Planet",ANIMAL PLANET ESP
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/312
+#EXTINF:-1 group-title="Animal Planet",Animal Planet SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/61331
+#EXTINF:-1 group-title="Animal Planet",MYC - ANIMAL PLANET FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4067
+#EXTINF:-1 group-title="Animal Planet",MyC - ANIMAL PLANET
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1155797
+#EXTINF:-1 group-title="Animal Planet",MX Animal Planet HD
+http://hdhd.tk:80/office2/office2/24474
+#EXTINF:-1 group-title="Animal Planet",CUL01: ANIMAL PLANET FHD
+http://k4livetv.com:8080/Simon1/Simon1/590962
+#EXTINF:-1 group-title="Animal Planet",CUL02: ANIMAL PLANET HD
+http://k4livetv.com:8080/Simon1/Simon1/590963
+#EXTINF:-1 group-title="Animal Planet",CUL03: ANIMAL PLANET
+http://k4livetv.com:8080/Simon1/Simon1/590964
+#EXTINF:-1 group-title="Animal Planet",ANIMAL PLANET
+http://elmonkey.us:25461/Victor/Victor/17
+
+#EXTINF:-1 group-title="Cartoonito",Boomerang SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/61338
+#EXTINF:-1 group-title="Cartoonito",BOOMERANG
+http://elmonkey.us:25461/Victor/Victor/30
+#EXTINF:-1 group-title="Cartoonito",INF25: CARTOONITO FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591793
+#EXTINF:-1 group-title="Cartoonito",INF26: CARTOONITO HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591794
+#EXTINF:-1 group-title="Cartoonito",INF27: CARTOONITO
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591795
+#EXTINF:-1 group-title="Cartoonito",CARTOONITO MX
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/332
+#EXTINF:-1 group-title="Cartoonito",INF - CARTOONITO FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4061
+#EXTINF:-1 group-title="Cartoonito",INF - CARTOONITO HD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1155854
+#EXTINF:-1 group-title="Cartoonito",INF25: CARTOONITO FHD
+http://k4livetv.com:8080/Simon1/Simon1/591793
+#EXTINF:-1 group-title="Cartoonito",INF26: CARTOONITO HD
+http://k4livetv.com:8080/Simon1/Simon1/591794
+#EXTINF:-1 group-title="Cartoonito",INF27: CARTOONITO
+http://k4livetv.com:8080/Simon1/Simon1/591795
+#EXTINF:-1 group-title="Cartoonito",Cartoonito México (720p)
+http://elmonkey.us:25461/Victor/Victor/103120
+
+#EXTINF:-1 group-title="Cartoon Network",INF04: CARTOON NETWORK FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591725
+#EXTINF:-1 group-title="Cartoon Network",INF05: CARTOON NETWORK HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591726
+#EXTINF:-1 group-title="Cartoon Network",INF06: CARTOON NETWORK
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591727
+#EXTINF:-1 group-title="Cartoon Network",Cartoon Network SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/61341
+#EXTINF:-1 group-title="Cartoon Network",INF - CARTOON NETWORK FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4063
+#EXTINF:-1 group-title="Cartoon Network",INF - CARTOON NETWORK
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1155850
+#EXTINF:-1 group-title="Cartoon Network",INF04: CARTOON NETWORK FHD
+http://k4livetv.com:8080/Simon1/Simon1/591725
+#EXTINF:-1 group-title="Cartoon Network",INF05: CARTOON NETWORK HD
+http://k4livetv.com:8080/Simon1/Simon1/591726
+#EXTINF:-1 group-title="Cartoon Network",INF06: CARTOON NETWORK
+http://k4livetv.com:8080/Simon1/Simon1/591727
+#EXTINF:-1 group-title="Cartoon Network",CARTOON NETWORK
+http://elmonkey.us:25461/Victor/Victor/35
+#EXTINF:-1 group-title="Cartoon Network",Cartoon Network México (720p)
+http://elmonkey.us:25461/Victor/Victor/103119
+
+#EXTINF:-1 group-title="Disney Channel",INF10: DISNEY CHANNEL FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591731
+#EXTINF:-1 group-title="Disney Channel",INF11: DISNEY CHANNEL HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591732
+#EXTINF:-1 group-title="Disney Channel",INF12: DISNEY CHANNEL
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591733
+#EXTINF:-1 group-title="Disney Channel",ES: DISNEY CHANNEL
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/68
+#EXTINF:-1 group-title="Disney Channel",DISNEY CHANNEL  ESP
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/327
+#EXTINF:-1 group-title="Disney Channel",Disney Channel SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/61352
+#EXTINF:-1 group-title="Disney Channel",INF - DISNEY CHANNEL
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4004
+#EXTINF:-1 group-title="Disney Channel",INF10: DISNEY CHANNEL FHD
+http://k4livetv.com:8080/Simon1/Simon1/591731
+#EXTINF:-1 group-title="Disney Channel",INF11: DISNEY CHANNEL HD
+http://k4livetv.com:8080/Simon1/Simon1/591732
+#EXTINF:-1 group-title="Disney Channel",INF12: DISNEY CHANNEL
+http://k4livetv.com:8080/Simon1/Simon1/591733
+#EXTINF:-1 group-title="Disney Channel",DISNEY CHANNEL
+http://elmonkey.us:25461/Victor/Victor/54
+#EXTINF:-1 group-title="Disney Channel",Latino | Disney Channel
+http://elmonkey.us:25461/Victor/Victor/91685
+
+#EXTINF:-1 group-title="Disney Jr",ES | Disney Jr
+http://k4livetv.com:8080/Fabio1234/Fabio123456/462846
+#EXTINF:-1 group-title="Disney Jr",Disney jr SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/61348
+#EXTINF:-1 group-title="Disney Jr",INF - DISNEY JR FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4111
+#EXTINF:-1 group-title="Disney Jr",INF  - DISNEY JR
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1144260
+#EXTINF:-1 group-title="Disney Jr",ES | Disney Jr
+http://k4livetv.com:8080/Simon1/Simon1/462846
+#EXTINF:-1 group-title="Disney Jr",DISNEY JR
+http://elmonkey.us:25461/Victor/Victor/55
+#EXTINF:-1 group-title="Disney Jr",Latino | Disney Jr
+http://elmonkey.us:25461/Victor/Victor/91686
+#EXTINF:-1 group-title="Disney Jr",INF07: DISNEY JUNIOR FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591728
+#EXTINF:-1 group-title="Disney Jr",INF08: DISNEY JUNIOR HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591729
+#EXTINF:-1 group-title="Disney Jr",INF09: DISNEY JUNIOR
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591730
+#EXTINF:-1 group-title="Disney Jr",ES: DISNEY JUNIOR
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/67
+#EXTINF:-1 group-title="Disney Jr",DISNEY JUNIOR ESP
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/325
+#EXTINF:-1 group-title="Disney Jr",Disney Junior SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/61353
+#EXTINF:-1 group-title="Disney Jr",INF07: DISNEY JUNIOR FHD
+http://k4livetv.com:8080/Simon1/Simon1/591728
+#EXTINF:-1 group-title="Disney Jr",INF08: DISNEY JUNIOR HD
+http://k4livetv.com:8080/Simon1/Simon1/591729
+#EXTINF:-1 group-title="Disney Jr",INF09: DISNEY JUNIOR
+http://k4livetv.com:8080/Simon1/Simon1/591730
+
+#EXTINF:-1 group-title="Disney XD",ES | Disney XD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/462847
+#EXTINF:-1 group-title="Disney XD",Disney XD SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/61354
+#EXTINF:-1 group-title="Disney XD",ES | Disney XD
+http://k4livetv.com:8080/Simon1/Simon1/462847
+
+#EXTINF:-1 group-title="Discovery Kids",INF13: DISCOVERY KIDS FHD.
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591734
+#EXTINF:-1 group-title="Discovery Kids",INF14: DISCOVERY KIDS HD.
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591735
+#EXTINF:-1 group-title="Discovery Kids",INF15: DISCOVERY KIDS.
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591736
+#EXTINF:-1 group-title="Discovery Kids",DISCOVERY KIDS SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/329
+#EXTINF:-1 group-title="Discovery Kids",INF - DISCOVERY KIDS FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4072
+#EXTINF:-1 group-title="Discovery Kids",INF - DISCOVERY KIDS HD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1155851
+#EXTINF:-1 group-title="Discovery Kids",INF13: DISCOVERY KIDS FHD.
+http://k4livetv.com:8080/Simon1/Simon1/591734
+#EXTINF:-1 group-title="Discovery Kids",INF14: DISCOVERY KIDS HD.
+http://k4livetv.com:8080/Simon1/Simon1/591735
+#EXTINF:-1 group-title="Discovery Kids",INF15: DISCOVERY KIDS.
+http://k4livetv.com:8080/Simon1/Simon1/591736
+#EXTINF:-1 group-title="Discovery Kids",DISCOVERY KIDS +
+http://elmonkey.us:25461/Victor/Victor/48
+#EXTINF:-1 group-title="Discovery Kids",Latino | Discovery Kids
+http://elmonkey.us:25461/Victor/Victor/91728
+
+#EXTINF:-1 group-title="Nat Geo",ES | Nat Geo Wild
+http://k4livetv.com:8080/Fabio1234/Fabio123456/462844
+#EXTINF:-1 group-title="Nat Geo",CUL52: NAT GEO MUNDO FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591013
+#EXTINF:-1 group-title="Nat Geo",CUL53: NAT GEO MUNDO HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591014
+#EXTINF:-1 group-title="Nat Geo",CUL54: NAT GEO MUNDO
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591015
+#EXTINF:-1 group-title="Nat Geo",CUL55: NAT GEO FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591016
+#EXTINF:-1 group-title="Nat Geo",CUL56: NAT GEO HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591017
+#EXTINF:-1 group-title="Nat Geo",CUL57: NAT GEO
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591018
+#EXTINF:-1 group-title="Nat Geo",NAT GEO MUNDO
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/301
+#EXTINF:-1 group-title="Nat Geo",MYC - NAT GEO FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4097
+#EXTINF:-1 group-title="Nat Geo",USA Latin Nat Geo Mundo
+http://hdhd.tk:80/office2/office2/28906
+#EXTINF:-1 group-title="Nat Geo",ES | Nat Geo Wild
+http://k4livetv.com:8080/Simon1/Simon1/462844
+#EXTINF:-1 group-title="Nat Geo",CUL52: NAT GEO MUNDO FHD
+http://k4livetv.com:8080/Simon1/Simon1/591013
+#EXTINF:-1 group-title="Nat Geo",CUL53: NAT GEO MUNDO HD
+http://k4livetv.com:8080/Simon1/Simon1/591014
+#EXTINF:-1 group-title="Nat Geo",CUL54: NAT GEO MUNDO
+http://k4livetv.com:8080/Simon1/Simon1/591015
+#EXTINF:-1 group-title="Nat Geo",CUL55: NAT GEO FHD
+http://k4livetv.com:8080/Simon1/Simon1/591016
+#EXTINF:-1 group-title="Nat Geo",CUL56: NAT GEO HD
+http://k4livetv.com:8080/Simon1/Simon1/591017
+#EXTINF:-1 group-title="Nat Geo",CUL57: NAT GEO
+http://k4livetv.com:8080/Simon1/Simon1/591018
+#EXTINF:-1 group-title="Nat Geo",NAT GEO MUNDO
+http://elmonkey.us:25461/Victor/Victor/102
+#EXTINF:-1 group-title="Nat Geo",NAT GEO WILD
+http://elmonkey.us:25461/Victor/Victor/103
+
+#EXTINF:-1 group-title="Nick",ES | Nick Jr
+http://k4livetv.com:8080/Fabio1234/Fabio123456/462849
+#EXTINF:-1 group-title="Nick",ES | Nickeloden
+http://k4livetv.com:8080/Fabio1234/Fabio123456/462850
+#EXTINF:-1 group-title="Nick",24/7 38: PLUTO NICK Movies
+http://k4livetv.com:8080/Fabio1234/Fabio123456/588408
+#EXTINF:-1 group-title="Nick",INF16: NICK JR FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591737
+#EXTINF:-1 group-title="Nick",INF17: NICK JR HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591738
+#EXTINF:-1 group-title="Nick",INF18: NICK JR
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591739
+#EXTINF:-1 group-title="Nick",INF19: TEENICK FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591740
+#EXTINF:-1 group-title="Nick",INF20: TEENICK HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591741
+#EXTINF:-1 group-title="Nick",INF21: TEENICK
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591742
+#EXTINF:-1 group-title="Nick",INF28: NICK FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591828
+#EXTINF:-1 group-title="Nick",INF29: NICK HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591829
+#EXTINF:-1 group-title="Nick",INF30: NICK
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591830
+#EXTINF:-1 group-title="Nick",INF31: NICK MUSIC FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591831
+#EXTINF:-1 group-title="Nick",INF32: NICK MUSIC HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591832
+#EXTINF:-1 group-title="Nick",INF33: NICK MUSIC
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591833
+#EXTINF:-1 group-title="Nick",MS49: NICK MUSIC FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591945
+#EXTINF:-1 group-title="Nick",MS50: NICK MUSIC HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591946
+#EXTINF:-1 group-title="Nick",MS51: NICK MUSIC
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591947
+#EXTINF:-1 group-title="Nick",NICKTOONS ESP
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/16
+#EXTINF:-1 group-title="Nick",ES: NICK
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/37
+#EXTINF:-1 group-title="Nick",NICK ESP
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/318
+#EXTINF:-1 group-title="Nick",Teen Nick ESP
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/319
+#EXTINF:-1 group-title="Nick",NICK JR ESP
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/321
+#EXTINF:-1 group-title="Nick",Nick SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/61376
+#EXTINF:-1 group-title="Nick",Nicktoons SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/61377
+#EXTINF:-1 group-title="Nick",INF - NICKELODEON FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4058
+#EXTINF:-1 group-title="Nick",INF - NICKELODEON HD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1155856
+#EXTINF:-1 group-title="Nick",INF - NICK JUNIOR
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4194
+#EXTINF:-1 group-title="Nick",INF - TEENNICK 
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4140
+#EXTINF:-1 group-title="Nick",ES | Nick Jr
+http://k4livetv.com:8080/Simon1/Simon1/462849
+#EXTINF:-1 group-title="Nick",ES | Nickeloden
+http://k4livetv.com:8080/Simon1/Simon1/462850
+#EXTINF:-1 group-title="Nick",TEENNICK
+http://k4livetv.com:8080/Simon1/Simon1/585886
+#EXTINF:-1 group-title="Nick",INF16: NICK JR FHD
+http://k4livetv.com:8080/Simon1/Simon1/591737
+#EXTINF:-1 group-title="Nick",INF17: NICK JR HD
+http://k4livetv.com:8080/Simon1/Simon1/591738
+#EXTINF:-1 group-title="Nick",INF18: NICK JR
+http://k4livetv.com:8080/Simon1/Simon1/591739
+#EXTINF:-1 group-title="Nick",INF19: TEENICK FHD
+http://k4livetv.com:8080/Simon1/Simon1/591740
+#EXTINF:-1 group-title="Nick",INF20: TEENICK HD
+http://k4livetv.com:8080/Simon1/Simon1/591741
+#EXTINF:-1 group-title="Nick",INF21: TEENICK
+http://k4livetv.com:8080/Simon1/Simon1/591742
+#EXTINF:-1 group-title="Nick",INF28: NICK FHD
+http://k4livetv.com:8080/Simon1/Simon1/591828
+#EXTINF:-1 group-title="Nick",INF29: NICK HD
+http://k4livetv.com:8080/Simon1/Simon1/591829
+#EXTINF:-1 group-title="Nick",INF30: NICK
+http://k4livetv.com:8080/Simon1/Simon1/591830
+#EXTINF:-1 group-title="Nick",INF31: NICK MUSIC FHD
+http://k4livetv.com:8080/Simon1/Simon1/591831
+#EXTINF:-1 group-title="Nick",INF32: NICK MUSIC HD
+http://k4livetv.com:8080/Simon1/Simon1/591832
+#EXTINF:-1 group-title="Nick",INF33: NICK MUSIC
+http://k4livetv.com:8080/Simon1/Simon1/591833
+#EXTINF:-1 group-title="Nick",NICK
+http://elmonkey.us:25461/Victor/Victor/105
+#EXTINF:-1 group-title="Nick", NICK JR
+http://elmonkey.us:25461/Victor/Victor/106
+#EXTINF:-1 group-title="Nick",NICKTOONS
+http://elmonkey.us:25461/Victor/Victor/107
+#EXTINF:-1 group-title="Nick",NICKELODEON
+http://elmonkey.us:25461/Victor/Victor/379
+
+#EXTINF:-1 group-title="HBO",CIN61: HBO MUNDI FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592334
+#EXTINF:-1 group-title="HBO",CIN62: HBO MUNDI HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592335
+#EXTINF:-1 group-title="HBO",CIN63: HBO MUNDI
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592336
+#EXTINF:-1 group-title="HBO",CIN64: HBO PLUS FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592337
+#EXTINF:-1 group-title="HBO",CIN67: HBO SIGNATURE FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592340
+#EXTINF:-1 group-title="HBO",CIN68: HBO SIGNATURE HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592341
+#EXTINF:-1 group-title="HBO",CIN69: HBO SIGNATURE
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592342
+#EXTINF:-1 group-title="HBO",CIN70: HBO XTREME FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592343
+#EXTINF:-1 group-title="HBO",CIN71: HBO XTREME HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592344
+#EXTINF:-1 group-title="HBO",CIN72: HBO XTREME
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592345
+
+#EXTINF:-1 group-title="HBO",CIN150: US HBO LATINO EAST FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592433
+#EXTINF:-1 group-title="HBO",CIN151: US HBO LATINO EASTHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592434
+#EXTINF:-1 group-title="HBO",CIN152: US HBO LATINO EASTHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592435
+#EXTINF:-1 group-title="HBO",CIN153: US HBO LATINO WEST FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592436
+#EXTINF:-1 group-title="HBO",CIN155: US HBO LATINO WEST
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592438
+#EXTINF:-1 group-title="HBO",HBO 2 SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/60991
+#EXTINF:-1 group-title="HBO",HBO Family SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/60992
+#EXTINF:-1 group-title="HBO",HBO Plus SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/60993
+#EXTINF:-1 group-title="HBO",HBO PLUS MX
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/64059
+#EXTINF:-1 group-title="HBO",HBO SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/60994
+#EXTINF:-1 group-title="HBO",HBO 2 MX
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/206
+#EXTINF:-1 group-title="HBO",HBO MX
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/52661
+#EXTINF:-1 group-title="HBO",HBO Mundi MX FHD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/53657
+#EXTINF:-1 group-title="HBO",HBO Pop MX FHD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/53658
+#EXTINF:-1 group-title="HBO",HBO Xtreme MX FHD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/53659
+#EXTINF:-1 group-title="HBO",CINE - HBO FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4112
+#EXTINF:-1 group-title="HBO",CINE - HBO 
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1155792
+#EXTINF:-1 group-title="HBO",CINE - HBO 2
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1155794
+#EXTINF:-1 group-title="HBO",CINE - HBO 2 FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4095
+#EXTINF:-1 group-title="HBO",CINE - HBO PLUS FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4109
+#EXTINF:-1 group-title="HBO",CINE - HBO PLUS +
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4003
+#EXTINF:-1 group-title="HBO",CINE - HBO SIGNATURE
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1155796
+#EXTINF:-1 group-title="HBO",CINE - HBO XTREME FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/8226
+#EXTINF:-1 group-title="HBO",CINE - HBO XTREME
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/44341
+#EXTINF:-1 group-title="HBO",CINE - HBO POP FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/8246
+#EXTINF:-1 group-title="HBO",CINE - HBO POP
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/47445
+#EXTINF:-1 group-title="HBO",CINE - HBO FAMILY 
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4017
+#EXTINF:-1 group-title="HBO",CINE - HBO MUNDI
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1143815
+#EXTINF:-1 group-title="HBO",USA Latin HBO
+http://hdhd.tk:80/office2/office2/28896
+#EXTINF:-1 group-title="HBO",USA Latino HBO West
+http://hdhd.tk:80/office2/office2/28962
+#EXTINF:-1 group-title="HBO",USA Latino HBO East
+http://hdhd.tk:80/office2/office2/28961
+#EXTINF:-1 group-title="HBO",CIN49: HBO POP FHD
+http://k4livetv.com:8080/Simon1/Simon1/592274
+#EXTINF:-1 group-title="HBO",CIN50: HBO POP HD
+http://k4livetv.com:8080/Simon1/Simon1/592275
+#EXTINF:-1 group-title="HBO",CIN51: HBO POP
+http://k4livetv.com:8080/Simon1/Simon1/592276
+#EXTINF:-1 group-title="HBO",CIN52: HBO FHD
+http://k4livetv.com:8080/Simon1/Simon1/592277
+#EXTINF:-1 group-title="HBO",CIN53: HBO HD
+http://k4livetv.com:8080/Simon1/Simon1/592278
+#EXTINF:-1 group-title="HBO",CIN54: HBO
+http://k4livetv.com:8080/Simon1/Simon1/592279
+#EXTINF:-1 group-title="HBO",CIN55: HBO 2 FHD
+http://k4livetv.com:8080/Simon1/Simon1/592280
+#EXTINF:-1 group-title="HBO",CIN56: HBO 2 HD
+http://k4livetv.com:8080/Simon1/Simon1/592281
+#EXTINF:-1 group-title="HBO",CIN57: HBO 2
+http://k4livetv.com:8080/Simon1/Simon1/592282
+#EXTINF:-1 group-title="HBO",CIN58: HBO FAMILY FHD
+http://k4livetv.com:8080/Simon1/Simon1/592283
+#EXTINF:-1 group-title="HBO",CIN59: HBO FAMILY HD
+http://k4livetv.com:8080/Simon1/Simon1/592284
+#EXTINF:-1 group-title="HBO",CIN60: HBO FAMILY
+http://k4livetv.com:8080/Simon1/Simon1/592285
+#EXTINF:-1 group-title="HBO",CIN61: HBO MUNDI FHD
+http://k4livetv.com:8080/Simon1/Simon1/592334
+#EXTINF:-1 group-title="HBO",CIN62: HBO MUNDI HD
+http://k4livetv.com:8080/Simon1/Simon1/592335
+#EXTINF:-1 group-title="HBO",CIN63: HBO MUNDI
+http://k4livetv.com:8080/Simon1/Simon1/592336
+#EXTINF:-1 group-title="HBO",CIN64: HBO PLUS FHD
+http://k4livetv.com:8080/Simon1/Simon1/592337
+#EXTINF:-1 group-title="HBO",CIN65: HBO PLUS HD
+http://k4livetv.com:8080/Simon1/Simon1/592338
+#EXTINF:-1 group-title="HBO",CIN66: HBO PLUS
+http://k4livetv.com:8080/Simon1/Simon1/592339
+#EXTINF:-1 group-title="HBO",CIN67: HBO SIGNATURE FHD
+http://k4livetv.com:8080/Simon1/Simon1/592340
+#EXTINF:-1 group-title="HBO",CIN68: HBO SIGNATURE HD
+http://k4livetv.com:8080/Simon1/Simon1/592341
+#EXTINF:-1 group-title="HBO",CIN69: HBO SIGNATURE
+http://k4livetv.com:8080/Simon1/Simon1/592342
+#EXTINF:-1 group-title="HBO",CIN70: HBO XTREME FHD
+http://k4livetv.com:8080/Simon1/Simon1/592343
+#EXTINF:-1 group-title="HBO",CIN71: HBO XTREME HD
+http://k4livetv.com:8080/Simon1/Simon1/592344
+#EXTINF:-1 group-title="HBO",CIN72: HBO XTREME
+http://k4livetv.com:8080/Simon1/Simon1/592345
+#EXTINF:-1 group-title="HBO",CIN150: US HBO LATINO EAST FHD
+http://k4livetv.com:8080/Simon1/Simon1/592433
+#EXTINF:-1 group-title="HBO",CIN151: US HBO LATINO EASTHD
+http://k4livetv.com:8080/Simon1/Simon1/592434
+#EXTINF:-1 group-title="HBO",CIN152: US HBO LATINO EASTHD
+http://k4livetv.com:8080/Simon1/Simon1/592435
+#EXTINF:-1 group-title="HBO",CIN153: US HBO LATINO WEST FHD
+http://k4livetv.com:8080/Simon1/Simon1/592436
+#EXTINF:-1 group-title="HBO",CIN154: US HBO LATINO WEST HD
+http://k4livetv.com:8080/Simon1/Simon1/592437
+#EXTINF:-1 group-title="HBO",CIN155: US HBO LATINO WEST
+http://k4livetv.com:8080/Simon1/Simon1/592438
+
+#EXTINF:-1 group-title="Bitme",CINP34: BITME FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592545
+#EXTINF:-1 group-title="Bitme",CINP35: BITME HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592546
+#EXTINF:-1 group-title="Bitme",CINP36: BITME
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592547
+#EXTINF:-1 group-title="Bitme",BitMe
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/333
+#EXTINF:-1 group-title="Bitme",BitMe SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/61337
+#EXTINF:-1 group-title="Bitme",Bitme Vix+
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/143000
+#EXTINF:-1 group-title="Bitme",ENT - BITME
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/47698
+#EXTINF:-1 group-title="Bitme",CINP34: BITME FHD
+http://k4livetv.com:8080/Simon1/Simon1/592545
+#EXTINF:-1 group-title="Bitme",CINP35: BITME HD
+http://k4livetv.com:8080/Simon1/Simon1/592546
+#EXTINF:-1 group-title="Bitme",CINP36: BITME
+http://k4livetv.com:8080/Simon1/Simon1/592547
+
+#EXTINF:-1 group-title="Warner",CIN132: WARNER CHANNEL FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592415
+#EXTINF:-1 group-title="Warner",CIN133: WARNER CHANNEL HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592416
+#EXTINF:-1 group-title="Warner",CIN134: WARNER CHANNEL
+http://k4livetv.com:8080/Fabio1234/Fabio123456/592417
+#EXTINF:-1 group-title="Warner",WARNER TV MX
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/254
+#EXTINF:-1 group-title="Warner",Warner TV SD
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/61006
+#EXTINF:-1 group-title="Warner",CINE - WARNER
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1155808
+#EXTINF:-1 group-title="Warner",CIN132: WARNER CHANNEL FHD
+http://k4livetv.com:8080/Simon1/Simon1/592415
+#EXTINF:-1 group-title="Warner",CIN133: WARNER CHANNEL HD
+http://k4livetv.com:8080/Simon1/Simon1/592416
+#EXTINF:-1 group-title="Warner",CIN134: WARNER CHANNEL
+http://k4livetv.com:8080/Simon1/Simon1/592417
+#EXTINF:-1 group-title="Warner",CINE - WARNER FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4053
+
+#EXTINF:-1 group-title="PERU",PE01: AMERICA TV FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591324
+#EXTINF:-1 group-title="PERU",PE02: AMERICA TV HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591325
+#EXTINF:-1 group-title="PERU",PE03: AMERICA TV
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591326
+#EXTINF:-1 group-title="PERU",PE04: LATINA FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591327
+#EXTINF:-1 group-title="PERU",PE05: LATINA HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591328
+#EXTINF:-1 group-title="PERU",PE06: LATINA
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591329
+#EXTINF:-1 group-title="PERU",PE07: PANAMERICANA FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591330
+#EXTINF:-1 group-title="PERU",PE08: PANAMERICANA HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591331
+#EXTINF:-1 group-title="PERU",PE09: PANAMERICANA
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591332
+#EXTINF:-1 group-title="PERU",PE10: ATV FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591333
+#EXTINF:-1 group-title="PERU",PE11: ATV HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591334
+#EXTINF:-1 group-title="PERU",PE12: ATV
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591335
+#EXTINF:-1 group-title="PERU",PE13: ATV+ FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591336
+#EXTINF:-1 group-title="PERU",PE14: ATV+ HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591337
+#EXTINF:-1 group-title="PERU",PE15: ATV+
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591338
+#EXTINF:-1 group-title="PERU",PE16: PE: RPP FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591339
+#EXTINF:-1 group-title="PERU",PE17: PE: RPP HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591340
+#EXTINF:-1 group-title="PERU",PE18: PE: RPP
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591341
+#EXTINF:-1 group-title="PERU",PE19: EXIROSA FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591342
+#EXTINF:-1 group-title="PERU",PE20: EXIROSA HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591343
+#EXTINF:-1 group-title="PERU",PE21: EXIROSA
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591344
+#EXTINF:-1 group-title="PERU",PE22: MOVISTAR PLUS FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591345
+#EXTINF:-1 group-title="PERU",PE23: MOVISTAR PLUS HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591346
+#EXTINF:-1 group-title="PERU",PE24: MOVISTAR PLUS
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591347
+#EXTINF:-1 group-title="PERU",PE25: TV PERU FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591348
+#EXTINF:-1 group-title="PERU",PE26: TV PERU HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591349
+#EXTINF:-1 group-title="PERU",PE27: TV PERU
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591350
+#EXTINF:-1 group-title="PERU",PE28: TV PERU NOTICIAS FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591351
+#EXTINF:-1 group-title="PERU",PE29: TV PERU NOTICIAS HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591352
+#EXTINF:-1 group-title="PERU",PE30: TV PERU NOTICIAS
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591353
+#EXTINF:-1 group-title="PERU",PE31: PERU MAGICO FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591354
+#EXTINF:-1 group-title="PERU",PE32: PERU MAGICO HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591355
+#EXTINF:-1 group-title="PERU",PE33: PERU MAGICO HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591356
+#EXTINF:-1 group-title="PERU",PE34: CANAL N FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591357
+#EXTINF:-1 group-title="PERU",PE35: CANAL N HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591358
+#EXTINF:-1 group-title="PERU",PE36: CANAL N
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591359
+#EXTINF:-1 group-title="PERU",PE37: BETHEL FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591360
+#EXTINF:-1 group-title="PERU",PE38: BETHEL HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591361
+#EXTINF:-1 group-title="PERU",PE39: BETHEL
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591362
+#EXTINF:-1 group-title="PERU",PE40: CULTURA 24 TV FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591363
+#EXTINF:-1 group-title="PERU",PE41: CULTURA 24 TV HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591364
+#EXTINF:-1 group-title="PERU",PE42: CULTURA 24 TV
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591365
+#EXTINF:-1 group-title="PERU",PE43: HATUN TV FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591366
+#EXTINF:-1 group-title="PERU",PE44: HATUN TV HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591367
+#EXTINF:-1 group-title="PERU",PE45: HATUN TV
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591368
+#EXTINF:-1 group-title="PERU",PE46: IPE FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591369
+#EXTINF:-1 group-title="PERU",PE47: IPE HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591370
+#EXTINF:-1 group-title="PERU",PE48: IPE
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591371
+#EXTINF:-1 group-title="PERU",PERU - TV PLUS
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/54853
+#EXTINF:-1 group-title="PERU",PERU - ATV
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/8333
+#EXTINF:-1 group-title="PERU",PERU - ATV PLUS
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/7449
+#EXTINF:-1 group-title="PERU",PERU- LATINA FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1087195
+#EXTINF:-1 group-title="PERU",PERU - LATINA HD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/56273
+#EXTINF:-1 group-title="PERU",PERU - PERU MAGICO
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/8323
+#EXTINF:-1 group-title="PERU",PERU- AMERICA TV FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1087194
+#EXTINF:-1 group-title="PERU",PERU - AMERICA TV SD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1068850
+#EXTINF:-1 group-title="PERU",PE - WILLAX TELEVISIÓN HD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1085372
+#EXTINF:-1 group-title="PERU",PE - WILLAX TELEVISIÓN SD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1105664
+#EXTINF:-1 group-title="PERU",PERU - CANAL N
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/7825
+#EXTINF:-1 group-title="PERU",PERU - MOVISTAR DEPORTES FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1092642
+#EXTINF:-1 group-title="PERU",PERU - GOL PERU FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1123136
+#EXTINF:-1 group-title="PERU",PERU - GOL PERU SD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/8329
+#EXTINF:-1 group-title="PERU",PR - LIGA1
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1151342
+#EXTINF:-1 group-title="PERU",PE - LIGA 1 MAX
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1151341
+
+
+
 #EXTINF:-1 group-title="Lista 2",A&E (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27969
 #EXTINF:-1 group-title="Lista 2",AMC (MX)
@@ -223,95 +837,8 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28158
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISCOVERY KIDS" tvg-logo="https://asiagrandiptv.us/logo/discoverykids.png" group-title="LATINO",LA: DISCOVERY KIDS
-http://axr.life:80/419992/357011/1044399
-#EXTINF:-1 tvg-id="" tvg-name="LAT SD:Discovery Kids" tvg-logo="http://playlistplus.site:8080/images/a13b5b240a3a9bdd3a138749573a3a10.jpg" group-title="PREMIUM SD",LAT SD:Discovery Kids
-http://axr.life:80/419992/357011/1059346
-#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY KIDS" tvg-logo="https://asiagrandiptv.us/logo/discoverykids.png" group-title="MEXICO",MEX: DISCOVERY KIDS
-http://axr.life:80/419992/357011/1044480
-#EXTINF:-1 tvg-id="" tvg-name="MEX: DISNEY JR" tvg-logo="https://asiagrandiptv.us/logo/disneyjr.png" group-title="MEXICO",MEX: DISNEY JR
-http://axr.life:80/419992/357011/1044486
-#EXTINF:-1 tvg-id="" tvg-name="LAT SD: Disney Jr" tvg-logo="http://playlistone.site:8080/images/307ff8770ea486ca1c7da260f53483d3.jpg" group-title="PREMIUM SD",LAT SD: Disney Jr
-http://axr.life:80/419992/357011/1059395
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY JR" tvg-logo="https://asiagrandiptv.us/logo/disneyjr.png" group-title="LATINO",LA: DISNEY JR
-http://axr.life:80/419992/357011/1044411
-#EXTINF:-1 tvg-id="" tvg-name="LAT SD:Disney XD" tvg-logo="http://visi4k.site:8080/images/b5da07aa3cd93fdecf09b5f7b066fb49.jpg" group-title="PREMIUM SD",LAT SD:Disney XD
-http://axr.life:80/419992/357011/1059388
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY XD" tvg-logo="https://asiagrandiptv.us/logo/disneyxd.png" group-title="LATINO",LA: DISNEY XD
-http://axr.life:80/419992/357011/1044410
-#EXTINF:-1 tvg-id="" tvg-name="INFANTILES | DISNEY XD HD (LAT)" tvg-logo="https://i.imgur.com/1hAnJ2m.png" group-title="INFANTILES",INFANTILES | DISNEY XD HD (LAT)
-http://axr.life:80/419992/357011/1059110
-#EXTINF:-1 tvg-id="" tvg-name="INFANTILES | Disney XD (MX)" tvg-logo="http://visi4k.site:8080/images/b1356df9a81596d8a83e0a36fd62e537.png" group-title="INFANTILES",INFANTILES | Disney XD (MX)
-http://axr.life:80/419992/357011/1059121
-#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY XD" tvg-logo="https://asiagrandiptv.us/logo/disneyxd.png" group-title="ARGENTINA 2",ARG: DISNEY XD
-http://axr.life:80/419992/357011/1532118
-#EXTINF:-1 tvg-id="" tvg-name="MEX: CARTOON NETWORK" tvg-logo="https://xplanetiptv.com/Logotv/countries/mexico/cartoonito-mx.png" group-title="MEXICO",MEX: CARTOON NETWORK
-http://axr.life:80/419992/357011/1044437
-#EXTINF:-1 tvg-id="" tvg-name="LAT SD:Cartoon Network" tvg-logo="http://playlistone.site:8080/images/87dfc97a7654b4b7ad9f04767361eca9.jpg" group-title="PREMIUM SD",LAT SD:Cartoon Network
-http://axr.life:80/419992/357011/1059389
-#EXTINF:-1 tvg-id="" tvg-name="LA: CARTOON NETWORK" tvg-logo="https://asiagrandiptv.us/logo/cartoonnetwork.png" group-title="LATINO",LA: CARTOON NETWORK
-http://axr.life:80/419992/357011/1044277
-#EXTINF:-1 tvg-id="" tvg-name="INFANTILES | Cartoon Network (MX)" tvg-logo="https://i.imgur.com/JBxp4W0.png" group-title="INFANTILES",INFANTILES | Cartoon Network (MX)
-http://axr.life:80/419992/357011/1059119
-#EXTINF:-1 tvg-id="" tvg-name="INFANTILES | CARTOON NETWORK HD (LAT)" tvg-logo="https://i.imgur.com/gEI5p2h.png" group-title="INFANTILES",INFANTILES | CARTOON NETWORK HD (LAT)
-http://axr.life:80/419992/357011/1059106
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title=" PERU",Cartoon Network HD
-http://axr.life:80/419992/357011/1219758
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CARTOON NETWORK" tvg-logo="https://asiagrandiptv.us/logo//cartoonnetworkwest.png" group-title="ARGENTINA 2",ARG: CARTOON NETWORK
-http://axr.life:80/419992/357011/1532096
-#EXTINF:-1 tvg-id="" tvg-name="009 Cartoon Network" tvg-logo="" group-title="CHILE",009 Cartoon Network
-http://axr.life:80/419992/357011/1084335
-#EXTINF:-1 tvg-id="" tvg-name="MEX: BOOMERANG" tvg-logo="https://asiagrandiptv.us/logo/boomerang.png" group-title="MEXICO",MEX: BOOMERANG
-http://axr.life:80/419992/357011/1044461
-#EXTINF:-1 tvg-id="" tvg-name="LA: BOOMERANG" tvg-logo="https://asiagrandiptv.us/logo/boomerang.png" group-title="LATINO",LA: BOOMERANG
-http://axr.life:80/419992/357011/1044406
-#EXTINF:-1 tvg-id="" tvg-name="ARG: BOOMERANG" tvg-logo="https://asiagrandiptv.us/logo//boomeranglow.png" group-title="ARGENTINA 2",ARG: BOOMERANG
-http://axr.life:80/419992/357011/1532101
-#EXTINF:-1 tvg-id="" tvg-name="LAT SD: CARTOONITO" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/demzey3-44424c39-77ff-4ddb-bf67-752f90836c3e.png/v1/fill/w_1280,h_357,strp/cartoonito_logo__my_version__by_jared33_demzey3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzU3IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZW16ZXkzLTQ0NDI0YzM5LTc3ZmYtNGRkYi1iZjY3LTc1MmY5MDgzNmMzZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3_ID-Tk2dh2CXL-_3jyv1vl7kIKE0oqVCVyonccLaV4" group-title="PREMIUM SD",LAT SD: CARTOONITO
-http://axr.life:80/419992/357011/1059392
-#EXTINF:-1 tvg-id="" tvg-name="INFANTILES | CARTOONITO (LAT) HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/demzey3-44424c39-77ff-4ddb-bf67-752f90836c3e.png/v1/fill/w_1280,h_357,strp/cartoonito_logo__my_version__by_jared33_demzey3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzU3IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZW16ZXkzLTQ0NDI0YzM5LTc3ZmYtNGRkYi1iZjY3LTc1MmY5MDgzNmMzZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3_ID-Tk2dh2CXL-_3jyv1vl7kIKE0oqVCVyonccLaV4" group-title="INFANTILES",INFANTILES | CARTOONITO (LAT) HD
-http://axr.life:80/419992/357011/1059118
-#EXTINF:-1 tvg-id="" tvg-name="INFANTILES | CARTOONITO (MX)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/demzey3-44424c39-77ff-4ddb-bf67-752f90836c3e.png/v1/fill/w_1280,h_357,strp/cartoonito_logo__my_version__by_jared33_demzey3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzU3IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZW16ZXkzLTQ0NDI0YzM5LTc3ZmYtNGRkYi1iZjY3LTc1MmY5MDgzNmMzZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3_ID-Tk2dh2CXL-_3jyv1vl7kIKE0oqVCVyonccLaV4" group-title="INFANTILES",INFANTILES | CARTOONITO (MX)
-http://axr.life:80/419992/357011/1059105
-#EXTINF:-1 tvg-id="" tvg-name="MEX: DISNEY CHANNEL" tvg-logo="https://asiagrandiptv.us/logo/disneychannel.png" group-title="MEXICO",MEX: DISNEY CHANNEL
-http://axr.life:80/419992/357011/1044485
-#EXTINF:-1 tvg-id="" tvg-name="LAT SD:Disney Channel" tvg-logo="http://playlistplus.site:8080/images/6bee7677af2813c27e06499b0ac63cce.jpg" group-title="PREMIUM SD",LAT SD:Disney Channel
-http://axr.life:80/419992/357011/1059391
-#EXTINF:-1 tvg-id="" tvg-name="LA: DISNEY CHANNEL" tvg-logo="https://asiagrandiptv.us/logo/disneychannel.png" group-title="LATINO",LA: DISNEY CHANNEL
-http://axr.life:80/419992/357011/1044412
-#EXTINF:-1 tvg-id="" tvg-name="INFANTILES | DISNEY CHANNEL HD" tvg-logo="http://i.imgur.com/zrqUbNB.png" group-title="INFANTILES",INFANTILES | DISNEY CHANNEL HD
-http://axr.life:80/419992/357011/1059108
-#EXTINF:-1 tvg-id="" tvg-name="MEX: NICKELODEON" tvg-logo="https://asiagrandiptv.us/logo/nickelodeon.png" group-title="MEXICO",MEX: NICKELODEON
-http://axr.life:80/419992/357011/1044534
-#EXTINF:-1 tvg-id="" tvg-name="LAT SD:Nickelodeon" tvg-logo="http://visi4k.site:8080/images/734e561fe73d5716ac1165941933bd13.jpg" group-title="PREMIUM SD",LAT SD:Nickelodeon
-http://axr.life:80/419992/357011/1059387
-#EXTINF:-1 tvg-id="" tvg-name="LA: NICKELODEON" tvg-logo="https://asiagrandiptv.us/logo/nickelodeon.png" group-title="LATINO",LA: NICKELODEON
-http://axr.life:80/419992/357011/1044408
-#EXTINF:-1 tvg-id="" tvg-name="INFANTILES | NICKELODEON HD (MX)" tvg-logo="https://i.imgur.com/reP4q7Z.png" group-title="INFANTILES",INFANTILES | NICKELODEON HD (MX)
-http://axr.life:80/419992/357011/1059116
-#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON" tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/nickelodeon-ar.png" group-title="ARGENTINA 2",ARG: NICKELODEON
-http://axr.life:80/419992/357011/1532152
-#EXTINF:-1 tvg-id="" tvg-name="014 Nickelodeon" tvg-logo="" group-title="CHILE",014 Nickelodeon
-http://axr.life:80/419992/357011/1084337
-#EXTINF:-1 tvg-id="" tvg-name="LA: NICK 2" tvg-logo="https://asiagrandiptv.us/logo/nick2.png" group-title="LATINO",LA: NICK 2
-http://axr.life:80/419992/357011/1044356
-#EXTINF:-1 tvg-id="" tvg-name="INFANTILES | NICK 2 HD (LAT)" tvg-logo="http://visi4k.site:8080/images/17abee825a115c17a2276cf3ded6c190.png" group-title="INFANTILES",INFANTILES | NICK 2 HD (LAT)
-http://axr.life:80/419992/357011/1059114
-#EXTINF:-1 tvg-id="" tvg-name="INFANTILES | NICK 2 (MX)" tvg-logo="http://visi4k.site:8080/images/99181090344cbe704ce19093e44a5b20.png" group-title="INFANTILES",INFANTILES | NICK 2 (MX)
-http://axr.life:80/419992/357011/1059113
 #EXTINF:-1, PARAMOUNT + PLUS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true&PlaylistM3UCL
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PERU | America TV FHD" tvg-logo="http://visi4k.site:8080/images/e28e69b2650dd2a0599f8d21d4c69eed.png" group-title="PERU 2",PERU | America TV FHD
-http://axr.life:80/419992/357011/1406288
-#EXTINF:-1 tvg-id="" tvg-name="PERU | America TV FHD P" tvg-logo="http://visi4k.site:8080/images/759c7357919527d77efe75e0bd34170a.png" group-title="PERU 2",PERU | America TV FHD P
-http://axr.life:80/419992/357011/1406317
-#EXTINF:-1 tvg-id="" tvg-name="PERU | America TV HD" tvg-logo="http://visi4k.site:8080/images/759c7357919527d77efe75e0bd34170a.png" group-title="PERU 2",PERU | America TV HD
-http://axr.life:80/419992/357011/1406265
-#EXTINF:-1 tvg-id="" tvg-name="PERU |  America TV OPC 2" tvg-logo="http://visi4k.site:8080/images/759c7357919527d77efe75e0bd34170a.png" group-title="PERU 2",PERU |  America TV OPC 2
-http://axr.life:80/419992/357011/1406277
 #EXTINF:-1,Maxima TV
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 
