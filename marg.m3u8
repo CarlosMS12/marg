@@ -35,8 +35,6 @@ https://kali.vdopanel.com:3704/stream/play.m3u8
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1,Moni TV HD
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-#EXTINF:-1 radio="true", My Station anime
-http://01.solumedia.com.ar:8264/23*2700.stream?PlaylistM3UCL
 #EXTINF:-1,TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1,Neo TV Argentina
@@ -1673,106 +1671,7 @@ http://k4livetv.com:8080/Simon1/Simon1/462827
 #EXTINF:-1 group-title="MOVISTAR",MOVISTAR SERIEMANIA
 http://elmonkey.us:25461/Victor/Victor/91113
 
-#EXTINF:-1 radio="true" group-title="MUSIC",ARG66: MUSIC TOP FHD
-http://k4livetv.com:8080/Fabio1234/Fabio123456/589431
-#EXTINF:-1 radio="true" group-title="MUSIC",ARG67: MUSIC TOP HD
-http://k4livetv.com:8080/Fabio1234/Fabio123456/589432
-#EXTINF:-1 radio="true" group-title="MUSIC",ARG68: MUSIC TOP
-http://k4livetv.com:8080/Fabio1234/Fabio123456/589433
-#EXTINF:-1 radio="true" group-title="MUSIC",MS13: TOP NEW RADIO FHD
-http://k4livetv.com:8080/Fabio1234/Fabio123456/591909
-#EXTINF:-1 radio="true" group-title="MUSIC",MS14: TOP NEW RADIO HD
-http://k4livetv.com:8080/Fabio1234/Fabio123456/591910
-#EXTINF:-1 radio="true" group-title="MUSIC",MS15: TOP NEW RADIO
-http://k4livetv.com:8080/Fabio1234/Fabio123456/591911
-#EXTINF:-1 radio="true" group-title="MUSIC",ARG66: MUSIC TOP FHD
-http://k4livetv.com:8080/Simon1/Simon1/589431
-#EXTINF:-1 radio="true" group-title="MUSIC",ARG67: MUSIC TOP HD
-http://k4livetv.com:8080/Simon1/Simon1/589432
-#EXTINF:-1 radio="true" group-title="MUSIC",ARG68: MUSIC TOP
-http://k4livetv.com:8080/Simon1/Simon1/589433
-#EXTINF:-1 radio="true" group-title="MUSIC",CL46: ZONA LATINA FHD
-http://k4livetv.com:8080/Fabio1234/Fabio123456/589585
-#EXTINF:-1 radio="true" group-title="MUSIC",CL47: ZONA LATINA HD
-http://k4livetv.com:8080/Fabio1234/Fabio123456/589586
-#EXTINF:-1 radio="true" group-title="MUSIC",CL48: ZONA LATINA
-http://k4livetv.com:8080/Fabio1234/Fabio123456/589587
-#EXTINF:-1 radio="true" group-title="MUSIC",CHILE - ZONA LATINA
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1141627
-#EXTINF:-1 radio="true" group-title="MUSIC",CL46: ZONA LATINA FHD
-http://k4livetv.com:8080/Simon1/Simon1/589585
-#EXTINF:-1 radio="true" group-title="MUSIC",CL47: ZONA LATINA HD
-http://k4livetv.com:8080/Simon1/Simon1/589586
-#EXTINF:-1 radio="true" group-title="MUSIC",CL48: ZONA LATINA
-http://k4livetv.com:8080/Simon1/Simon1/589587
-#EXTINF:-1 radio="true" group-title="MUSIC",MX04: BANDAMAX FHD
-http://k4livetv.com:8080/Fabio1234/Fabio123456/591566
-#EXTINF:-1 radio="true" group-title="MUSIC",MX05: BANDAMAX HD
-http://k4livetv.com:8080/Fabio1234/Fabio123456/591567
-#EXTINF:-1 radio="true" group-title="MUSIC",MX06: BANDAMAX
-http://k4livetv.com:8080/Fabio1234/Fabio123456/591568
-#EXTINF:-1 radio="true" group-title="MUSIC",MS44: MX BANDAMAX HD
-http://k4livetv.com:8080/Fabio1234/Fabio123456/591940
-#EXTINF:-1 radio="true" group-title="MUSIC",MS45: MX BANDAMAX
-http://k4livetv.com:8080/Fabio1234/Fabio123456/591941
-#EXTINF:-1 radio="true" group-title="MUSIC",MS88: LATINO BANDAMAX FHD
-http://k4livetv.com:8080/Fabio1234/Fabio123456/591985
-#EXTINF:-1 radio="true" group-title="MUSIC",MS89: LATINO BANDAMAX HD
-http://k4livetv.com:8080/Fabio1234/Fabio123456/591986
-#EXTINF:-1 radio="true" group-title="MUSIC",MS90: LATINO BANDAMAX
-http://k4livetv.com:8080/Fabio1234/Fabio123456/591987
-#EXTINF:-1 radio="true" group-title="MUSIC",BANDAMAX
-http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/154
-#EXTINF:-1 radio="true" group-title="MUSIC",Bandamax Vix+
-http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/142998
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - MTV FHD
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4083
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - MTV LIVE FHD
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4096
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - MTV LIVE 
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156058
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - MTV HITS
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156057
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - TELEHIT LATINO
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156061
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - TELEHIT URBANO
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/3960
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - HTV
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/51395
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - VH1 CLASSIC
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4133
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - MUCH MUSIC
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156059
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS -  LATINA
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1116300
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - MUSIC TOP
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156060
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - BANDAMAX 
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156056
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - M6 MUSIC
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/7823
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - CONCERT CHANNEL
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/23236
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - 24/7 RETRO PLUS
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1116297
-#EXTINF:-1 radio="true" group-title="MUSIC",MUS - 24/7 ZAPPING MUSIC
-http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1116298
-#EXTINF:-1 radio="true" group-title="MUSIC",MX04: BANDAMAX FHD
-http://k4livetv.com:8080/Simon1/Simon1/591566
-#EXTINF:-1 radio="true" group-title="MUSIC",MX05: BANDAMAX HD
-http://k4livetv.com:8080/Simon1/Simon1/591567
-#EXTINF:-1 radio="true" group-title="MUSIC",MX06: BANDAMAX
-http://k4livetv.com:8080/Simon1/Simon1/591568
-#EXTINF:-1 radio="true" group-title="MUSIC",MS44: MX BANDAMAX HD
-http://k4livetv.com:8080/Simon1/Simon1/591940
-#EXTINF:-1 radio="true" group-title="MUSIC",MS45: MX BANDAMAX
-http://k4livetv.com:8080/Simon1/Simon1/591941
-#EXTINF:-1 radio="true" group-title="MUSIC",MS88: LATINO BANDAMAX FHD
-http://k4livetv.com:8080/Simon1/Simon1/591985
-#EXTINF:-1 radio="true" group-title="MUSIC",MS89: LATINO BANDAMAX HD
-http://k4livetv.com:8080/Simon1/Simon1/591986
-#EXTINF:-1 radio="true" group-title="MUSIC",MS90: LATINO BANDAMAX
-http://k4livetv.com:8080/Simon1/Simon1/591987
+
 
 #EXTINF:-1 group-title="Paramount",CIN73: PARAMOUNT CHANNEL FHD
 http://k4livetv.com:8080/Fabio1234/Fabio123456/592346
@@ -3847,44 +3746,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="Música" tvg-chno="916", MTV Spankin' New
 https://stitcher.pluto.tv/stitch/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=834afe43-eb51-11ed-b413-8295151c6605
 
-#EXTINF:-1 radio="true" group-title="Radio", Radio Super Music FM
-https://stream-57.zeno.fm/ysesgd11808uv?zs=YZk1sB2USJ-YD0wUQ-zOEw
-#EXTINF:-1 radio="true" group-title="Radio", Animax Radio
-https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
-#EXTINF:-1 radio="true" group-title="Radio", La Invasiva Radio
-http://node-33.zeno.fm:80/24gu34zmg1duv
-#EXTINF:-1 radio="true" group-title="Radio", RadioFreeAktivo
-https://stream-20.zeno.fm/ugd7e8qc7bruv?zs=TUVh_NklRL6WpeGLgzQxRw
-#EXTINF:-1 radio="true" group-title="Radio",Vol 40
-http://node-12.zeno.fm:80/rzw6q572mqzuv
-#EXTINF:-1 radio="true" group-title="Radio",Pasion Hits
-http://node-34.zeno.fm:80/vfxsw0deyzzuv
-#EXTINF:-1 radio="true" group-title="Radio",Vibra FM
-http://node-19.zeno.fm:80/cp658vvd7tzuv
-#EXTINF:-1 radio="true" group-title="Radio",animenexus
-http://cast.animenexusla.com:8000/animenexus
-#EXTINF:-1 radio="true" group-title="Radio",Otaku Music Radio
-https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882
-#EXTINF:-1 radio="true" group-title="Radio",Japan A Radio
-https://audio.misproductions.com/japan48kaacp
-#EXTINF:-1 radio="true" group-title="Radio",Radio Anime Tu Música Anime
-https://radioanime.radioca.st/stream
-#EXTINF:-1 radio="true" group-title="Radio",Radio Anime Para Ti
-http://node-03.zeno.fm:80/qpn8mkt8c4duv
-#EXTINF:-1 radio="true" group-title="Radio",Akari Radio
-http://node-26.zeno.fm:80/0t952vqukfeuv
-#EXTINF:-1 radio="true" group-title="Radio",Bender FM
-http://190.106.134.219:8158/;stream.nsv
-#EXTINF:-1 radio="true" group-title="Radio",Radio Picarina
-http://picarina-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 radio="true" group-title="Radio",Via Radio Vigo
-https://radioserver11.profesionalhosting.com/proxy/pkg129062?mp=/stream
-#EXTINF:-1 radio="true" group-title="Radio",Cope Alicante
-https://wecast-b01-01.flumotion.com/copesedes/alicante.mp3
-#EXTINF:-1 radio="true" group-title="Radio",Radio Marca Vigo HD
-https://streaming.enacast.com/radiomarcavigoHD.mp3
-#EXTINF:-1 radio="true" group-title="Radio",Radio 3 rne
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
+
 
 
 #EXTM3U
@@ -9523,3 +9385,144 @@ http://tvla.xyz:80/vrhqyawo/87e0n2pQcM/304009
 http://tvla.xyz:80/vrhqyawo/87e0n2pQcM/313199
 #EXTINF:-1 group-title="Lista Premium",ES: MUNDOTORO TV HD
 http://tvla.xyz:80/vrhqyawo/87e0n2pQcM/313200
+
+#EXTINF:-1 radio="true" tvg-logo="", My Station anime
+http://01.solumedia.com.ar:8264/23*2700.stream?PlaylistM3UCL
+#EXTINF:-1 radio="true" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqF-ScsS1arVqBq85b0xMWGc7nzS839pRiEgkN6gx4g1lcBTA1AtWuxGcr1-zcy1bOoZl7EjwJJLkvLiG2GgdtQMTcJzuR2QWmKMmopNIVCsssLaj4q4UtAk-_I65R4fL0qEsfRBytFYetX1v19ZmkI094uEmbA6WVe6RYozae4ULQIm75CjBWyCW/w200-h200/superfm.jpg" group-title="Radio", Radio Super Music FM
+https://stream-57.zeno.fm/ysesgd11808uv?zs=YZk1sB2USJ-YD0wUQ-zOEw
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", Animax Radio
+https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", La Invasiva Radio
+http://node-33.zeno.fm:80/24gu34zmg1duv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio", RadioFreeAktivo
+https://stream-20.zeno.fm/ugd7e8qc7bruv?zs=TUVh_NklRL6WpeGLgzQxRw
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Vol 40
+http://node-12.zeno.fm:80/rzw6q572mqzuv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Pasion Hits
+http://node-34.zeno.fm:80/vfxsw0deyzzuv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Vibra FM
+http://node-19.zeno.fm:80/cp658vvd7tzuv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",animenexus
+http://cast.animenexusla.com:8000/animenexus
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Otaku Music Radio
+https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Japan A Radio
+https://audio.misproductions.com/japan48kaacp
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Radio Anime Tu Música Anime
+https://radioanime.radioca.st/stream
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Radio Anime Para Ti
+http://node-03.zeno.fm:80/qpn8mkt8c4duv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Akari Radio
+http://node-26.zeno.fm:80/0t952vqukfeuv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Bender FM
+http://190.106.134.219:8158/;stream.nsv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Radio Picarina
+http://picarina-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Via Radio Vigo
+https://radioserver11.profesionalhosting.com/proxy/pkg129062?mp=/stream
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Cope Alicante
+https://wecast-b01-01.flumotion.com/copesedes/alicante.mp3
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Radio Marca Vigo HD
+https://streaming.enacast.com/radiomarcavigoHD.mp3
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Radio",Radio 3 rne
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",ARG66: MUSIC TOP FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/589431
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",ARG67: MUSIC TOP HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/589432
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",ARG68: MUSIC TOP
+http://k4livetv.com:8080/Fabio1234/Fabio123456/589433
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS13: TOP NEW RADIO FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591909
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS14: TOP NEW RADIO HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591910
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS15: TOP NEW RADIO
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591911
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",ARG66: MUSIC TOP FHD
+http://k4livetv.com:8080/Simon1/Simon1/589431
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",ARG67: MUSIC TOP HD
+http://k4livetv.com:8080/Simon1/Simon1/589432
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",ARG68: MUSIC TOP
+http://k4livetv.com:8080/Simon1/Simon1/589433
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",CL46: ZONA LATINA FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/589585
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",CL47: ZONA LATINA HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/589586
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",CL48: ZONA LATINA
+http://k4livetv.com:8080/Fabio1234/Fabio123456/589587
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",CHILE - ZONA LATINA
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1141627
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",CL46: ZONA LATINA FHD
+http://k4livetv.com:8080/Simon1/Simon1/589585
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",CL47: ZONA LATINA HD
+http://k4livetv.com:8080/Simon1/Simon1/589586
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",CL48: ZONA LATINA
+http://k4livetv.com:8080/Simon1/Simon1/589587
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MX04: BANDAMAX FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591566
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MX05: BANDAMAX HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591567
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MX06: BANDAMAX
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591568
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS44: MX BANDAMAX HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591940
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS45: MX BANDAMAX
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591941
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS88: LATINO BANDAMAX FHD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591985
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS89: LATINO BANDAMAX HD
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591986
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS90: LATINO BANDAMAX
+http://k4livetv.com:8080/Fabio1234/Fabio123456/591987
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",BANDAMAX
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/154
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",Bandamax Vix+
+http://kaelusplus.com:8080/Lujan22/HjKuxKvYB9/142998
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - MTV FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4083
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - MTV LIVE FHD
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4096
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - MTV LIVE 
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156058
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - MTV HITS
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156057
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - TELEHIT LATINO
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156061
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - TELEHIT URBANO
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/3960
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - HTV
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/51395
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - VH1 CLASSIC
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/4133
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - MUCH MUSIC
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156059
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS -  LATINA
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1116300
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - MUSIC TOP
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156060
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - BANDAMAX 
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1156056
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - M6 MUSIC
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/7823
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - CONCERT CHANNEL
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/23236
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - 24/7 RETRO PLUS
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1116297
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MUS - 24/7 ZAPPING MUSIC
+http://tv.xdragontv.com:8080/martinzunino/MZ4031333/1116298
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MX04: BANDAMAX FHD
+http://k4livetv.com:8080/Simon1/Simon1/591566
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MX05: BANDAMAX HD
+http://k4livetv.com:8080/Simon1/Simon1/591567
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MX06: BANDAMAX
+http://k4livetv.com:8080/Simon1/Simon1/591568
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS44: MX BANDAMAX HD
+http://k4livetv.com:8080/Simon1/Simon1/591940
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS45: MX BANDAMAX
+http://k4livetv.com:8080/Simon1/Simon1/591941
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS88: LATINO BANDAMAX FHD
+http://k4livetv.com:8080/Simon1/Simon1/591985
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS89: LATINO BANDAMAX HD
+http://k4livetv.com:8080/Simon1/Simon1/591986
+#EXTINF:-1 radio="true" tvg-logo="" group-title="MUSIC",MS90: LATINO BANDAMAX
+http://k4livetv.com:8080/Simon1/Simon1/591987
