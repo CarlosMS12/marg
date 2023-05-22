@@ -7680,3 +7680,114 @@ http://k4livetv.com:8080/Simon1/Simon1/592104
 http://k4livetv.com:8080/Fabio1234/Fabio123456/592480
 #EXTINF:-1 group-title="24/7",24/7 Los Picapiedra Dual Audio
 http://k4livetv.com:8080/Fabio1234/Fabio123456/592357
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/top-lima.png", Top latino TV
+https://5cefcbf58ba2e.streamlock.net:543/latino/latino.stream/.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/disney-91-1.png", Radio Disney Perú
+https://24073.live.streamtheworld.com/DISNEY_PER_LMAAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqF-ScsS1arVqBq85b0xMWGc7nzS839pRiEgkN6gx4g1lcBTA1AtWuxGcr1-zcy1bOoZl7EjwJJLkvLiG2GgdtQMTcJzuR2QWmKMmopNIVCsssLaj4q4UtAk-_I65R4fL0qEsfRBytFYetX1v19ZmkI094uEmbA6WVe6RYozae4ULQIm75CjBWyCW/w200-h200/superfm.jpg" group-title="Radio", Radio Super Music FM
+https://stream-57.zeno.fm/ysesgd11808uv?zs=YZk1sB2USJ-YD0wUQ-zOEw
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/CarlosMS12/marg/main/animax.png" group-title="Anime", Animax Radio
+https://stream-57.zeno.fm/ep9mpnntsnhvv?zs=ChPrtqZ1SMuqfQHUnpqhFw
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/CarlosMS12/marg/main/invasiva.jpeg" group-title="Radio", La Invasiva Radio
+http://node-33.zeno.fm:80/24gu34zmg1duv
+#EXTINF:-1 radio="true" tvg-logo="https://static.wixstatic.com/media/949643_519c66ee28794c5f95aa9bdbeab96f04~mv2.jpg/v1/fill/w_287,h_287,al_c,lg_1,q_80,enc_auto/949643_177780c2df574b299f75d90510e6d3dd_.jpg" group-title="Radio", RadioFreeAktivo
+https://stream-20.zeno.fm/ugd7e8qc7bruv?zs=TUVh_NklRL6WpeGLgzQxRw
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/5d/b5/125629/1/c300.png" group-title="Radio",Vol 40
+http://node-12.zeno.fm:80/rzw6q572mqzuv
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/CarlosMS12/marg/main/pasion%20hits.png" group-title="Radio",Pasion Hits
+http://node-34.zeno.fm:80/vfxsw0deyzzuv
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/CarlosMS12/marg/main/vibra.png" group-title="Radio",Vibra FM
+http://node-19.zeno.fm:80/cp658vvd7tzuv
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/48/cb/9110/c300.png" group-title="Anime",animenexus
+http://cast.animenexusla.com:8000/animenexus
+#EXTINF:-1 radio="true" tvg-logo="https://www.devuego.es/logos/medio_otaku-music-radio.jpg" group-title="Anime",Otaku Music Radio
+https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/2711341407/4d2ac862678da1da2413bb15233c3d90_400x400.png" group-title="Anime",Japan A Radio
+https://audio.misproductions.com/japan48kaacp
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/CarlosMS12/marg/main/tu%20musica%20anime.jpeg" group-title="Anime",Radio Anime Tu Música Anime
+https://radioanime.radioca.st/stream
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/CarlosMS12/marg/main/para%20ti.png" group-title="Anime",Radio Anime Para Ti
+http://node-03.zeno.fm:80/qpn8mkt8c4duv
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/animex.png" group-title="Anime", Radio Animex
+https://dj91.hostingnuclear.com/8014/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/otaku-s-dream.png" group-title="Anime", Radio Otaku's Dream
+https://laradiossl.online:8004/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/fanradio.png" group-title="Anime", FanRadio
+https://stream.zeno.fm/5gf5dcwsvrhvv
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/CarlosMS12/marg/main/akari.png" group-title="Anime",Akari Radio
+http://node-26.zeno.fm:80/0t952vqukfeuv
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/disney-91-1.png", Radio Disney Perú op2
+https://26643.live.streamtheworld.com/DISNEY_PER_LM_SC
+#EXTINF:-1 radio="true" tvg-logo="http://multimundo.mx/static/images/logos/exa/logo.png", ExaFM
+https://20283.live.streamtheworld.com/XHEXA_SC
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/la-karibena.png", Karibeña
+https://cpliv3.onliv3.com/stream/radiokaribena
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/exitosa-lima.png", Exitosa
+https://cpliv3.onliv3.com/stream/radioexitosa
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/CarlosMS12/marg/main/70.png", iHeart 70s
+https://stream.revma.ihrhls.com/zc6843
+#EXTINF:-1 radio="true" tvg-logo="https://i.pinimg.com/originals/44/5f/50/445f50adcf926040fc2d9d39c0c671e0.jpg", iHeart 80s
+https://stream.revma.ihrhls.com/zc4342
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/CarlosMS12/marg/main/90.png", iHeart 90s
+https://stream.revma.ihrhls.com/zc6834 
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/CarlosMS12/marg/main/00.png", iHeart 00s
+https://stream.revma.ihrhls.com/zc6850
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/CarlosMS12/marg/main/10.png", iHeart 10s
+https://stream.revma.ihrhls.com/zc8478
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ydthqx5dvp7h.png", BEAMFM
+https://ice1.streeemer.com:8030/radio.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yfff9pyf7k3w.jpg", Back to the 80s
+http://s1.nexuscast.com:8135/;;audio.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vl4bvwwwmhej.jpg", The Big 80s Station
+https://ssl.nexuscast.com:9044/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/romantica.png", Ritmo Romantica
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RITAAC.aac?csegid=40001&dist=40001&ttag=40001&_=304234
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/romantica.png", Ritmo Romantica op2
+https://14613.live.streamtheworld.com/CRP_RIT_SC?csegid=20001&dist=20001&ttag=20001
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/rpp.png", RPP Noticias
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/onda.png", Onda Cero
+https://streaming.gometri.com/stream/8011/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/corazon.png", radio corazón
+https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/moda.png", MODA te mueve!
+https://25013.live.streamtheworld.com/CRP_MOD_SC?csegid=20001&dist=20001&ttag=20001
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/la-zona.png", La Zona
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/studio.png", Studio 92
+https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/panamericana.png", Panamericana
+https://streaming.gometri.com/stream/8000/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/radiomar.png", Radiomar
+https://14073.live.streamtheworld.com/CRP_MAR_SC?csegid=20001&dist=20001&ttag=20001
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/kalle.png", La Kalle
+https://cpliv3.onliv3.com/stream/lakalle/stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/z-lima.png", Radio Z Rock Pop
+https://serverssl.innovatestream.pe:8080/http://167.114.118.120:7440/;
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/oxigeno.png", Radio Oxigeno
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/nueva-q.png", Radio Nueva Q
+https://24943.live.streamtheworld.com/CRP_NQ_SC?csegid=20001&dist=20001&ttag=20001
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/la-mega-lima.png", MegaMix
+https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/inolvidable.png", La Inolvidable
+https://24973.live.streamtheworld.com/CRP_LI_SC?csegid=20001&dist=20001&ttag=20001
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/viva.png", Viva FM
+https://tupanel.info:8780//stream
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/nuevo-tiempo.png", Nuevo Tiempo
+https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/generacion-kpop.png", Generación KPOP
+https://stream9.mexiserver.com/8242/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/cumbia-lima.png", Perú Cumbia Radio (Lima)
+https://tupanel.info:8270/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/nova-trujillo.png", Radio Nova (Trujillo)
+https://panel.innovatestream.pe:10989/stream/1/
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/top-lima.png", Top Latino (Lima)
+https://5cefcbf58ba2e.streamlock.net:543/latino/latino.stream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/cadenatop-lima.png", Cadena Top Urbano (Lima)
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/radio-top-latina-lima.png", Radio Top Latina (Lima)
+https://5cefcbf58ba2e.streamlock.net:543/latino/latino.stream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/90s-chimbote.png", Radio 90s Chimbote
+https://stream.zeno.fm/w1r13grcvqzuv
