@@ -1,9 +1,9 @@
 {
-    "images": [
+    "videos": [
       {
         "id": 12,
         "title": "hello",
-        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/back/132.png"
+        "url-video": "https://github.com/CarlosMS12/marg/blob/main/sa.mp4"
       }
     ],
     "profile": {
